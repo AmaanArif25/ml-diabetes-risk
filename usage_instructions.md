@@ -1,4 +1,4 @@
-# 📊 How to Use: Diabetes Risk Prediction Model
+# 📊 How to Use: Diabetes Risk Prediction Model.
 
 Follow these simple steps to use the diabetes prediction model:
 
